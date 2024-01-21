@@ -1,0 +1,2 @@
+0 kucing
+1 anjing
